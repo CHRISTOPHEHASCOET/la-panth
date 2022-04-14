@@ -589,7 +589,6 @@ body {
     position: absolute;
     left: 15px;
     right: 15px;
-    bottom: 5px;
     text-align: center;
   }
   
@@ -729,6 +728,7 @@ body {
     color: #333333 !important;
   }
   
+ 
   .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
@@ -794,6 +794,7 @@ body {
   .contrast {
     font-weight: 700;
     font-size: 23px;
+    position: relative;
   }
   
   .nocase { 
